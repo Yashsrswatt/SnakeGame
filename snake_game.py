@@ -42,7 +42,7 @@ color_options = {
 }
 
 # --- Game Window Setup (Global) ---
-pygame.display.set_caption('Snake Game by Coding Partner')
+pygame.display.set_caption('Snake Game by Yash Saraswat')
 game_window = pygame.display.set_mode((window_width, window_height))
 
 # --- Game State Variables (Global, will be reset) ---
